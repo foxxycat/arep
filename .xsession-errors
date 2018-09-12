@@ -1,0 +1,59 @@
+Xsession: X session started for root at Wed Sep 12 19:56:11 UTC 2018
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/0/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/root/.Xauthority
+localuser:root being added to access control list
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting USER=root
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting HOME=/root
+dbus-update-activation-environment: setting DESKTOP_SESSION=lightdm-xsession
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/0/bus
+dbus-update-activation-environment: setting LOGNAME=root
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/0
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting LANG=en_US.UTF-8
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=lightdm-xsession
+dbus-update-activation-environment: setting XAUTHORITY=/root/.Xauthority
+dbus-update-activation-environment: setting XDG_GREETER_DATA_DIR=/var/lib/lightdm/data/root
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting GDMSESSION=lightdm-xsession
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/0/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting PWD=/root
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/xfce4:/usr/local/share/:/usr/share/
+/usr/bin/x-session-manager: X server already running on display :0
+xfce4-session-Message: 19:56:15.741: SSH authentication agent is already running
+gpg-agent[1499]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+gpg-agent: a gpg-agent is already running - not starting a new one
+
+(xfce4-session:1492): xfce4-session-WARNING **: 19:56:15.755: gpg-agent returned no PID in the variables
+
+(xfce4-session:1492): xfce4-session-WARNING **: 19:56:15.763: xfsm_manager_load_session: Something wrong with /root/.cache/sessions/xfce4-session-kali:0, Does it exist? Permissions issue?
+
+(Thunar:1509): Gdk-WARNING **: 20:05:02.009: gdk_window_set_icon_list: icons too large
+
+(Thunar:1509): Gdk-WARNING **: 20:28:52.475: gdk_window_set_icon_list: icons too large
+
+(Thunar:1509): Gdk-WARNING **: 20:29:08.178: gdk_window_set_icon_list: icons too large
+
+(Thunar:1509): Gdk-WARNING **: 20:29:11.700: gdk_window_set_icon_list: icons too large
+
+(Thunar:1509): Gdk-WARNING **: 20:29:13.338: gdk_window_set_icon_list: icons too large
+
+(Thunar:1509): Gdk-WARNING **: 20:29:16.989: gdk_window_set_icon_list: icons too large
+
+(Thunar:1509): Gdk-WARNING **: 20:29:19.024: gdk_window_set_icon_list: icons too large
+
+(Thunar:1509): Gdk-WARNING **: 20:30:35.713: gdk_window_set_icon_list: icons too large
+
+(Thunar:1509): Gdk-WARNING **: 20:30:38.161: gdk_window_set_icon_list: icons too large
+
+(Thunar:1509): Gdk-WARNING **: 20:30:40.320: gdk_window_set_icon_list: icons too large
+
+(Thunar:1509): Gdk-WARNING **: 20:34:25.044: gdk_window_set_icon_list: icons too large
+
+(xfce4-terminal:1798): Gdk-CRITICAL **: 20:44:21.345: gdk_window_get_window_type: assertion 'GDK_IS_WINDOW (window)' failed

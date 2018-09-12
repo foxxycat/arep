@@ -1,0 +1,87 @@
+Xsession: X session started for root at Wed Sep 12 16:30:55 UTC 2018
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/0/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/root/.Xauthority
+localuser:root being added to access control list
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting USER=root
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting HOME=/root
+dbus-update-activation-environment: setting DESKTOP_SESSION=lightdm-xsession
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/0/bus
+dbus-update-activation-environment: setting LOGNAME=root
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/0
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting LANG=en_US.UTF-8
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=lightdm-xsession
+dbus-update-activation-environment: setting XAUTHORITY=/root/.Xauthority
+dbus-update-activation-environment: setting XDG_GREETER_DATA_DIR=/var/lib/lightdm/data/root
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting GDMSESSION=lightdm-xsession
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/0/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting PWD=/root
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/xfce4:/usr/local/share/:/usr/share/
+/usr/bin/x-session-manager: X server already running on display :0
+xfce4-session-Message: 16:30:57.652: SSH authentication agent is already running
+gpg-agent[1429]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+gpg-agent: a gpg-agent is already running - not starting a new one
+
+(xfce4-session:1422): xfce4-session-WARNING **: 16:30:57.665: gpg-agent returned no PID in the variables
+
+(xfce4-session:1422): xfce4-session-WARNING **: 16:30:57.672: xfsm_manager_load_session: Something wrong with /root/.cache/sessions/xfce4-session-kali:0, Does it exist? Permissions issue?
+1536759154732	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1536759457254	addons.update-checker	WARN	onUpdateCheckComplete failed to parse update manifest: [Exception... "Update manifest is missing a required addons property."  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/addons/AddonUpdateChecker.jsm :: getRequiredProperty :: line 473"  data: no] Stack trace: getRequiredProperty()@resource://gre/modules/addons/AddonUpdateChecker.jsm:473 < parseJSONManifest()@resource://gre/modules/addons/AddonUpdateChecker.jsm:483 < UpdateParser.prototype.onLoad/parser()@resource://gre/modules/addons/AddonUpdateChecker.jsm:655 < UpdateParser.prototype.onLoad()@resource://gre/modules/addons/AddonUpdateChecker.jsm:675 < UpdateParser/<()@resource://gre/modules/addons/AddonUpdateChecker.jsm:593
+1536759457276	addons.update-checker	WARN	onUpdateCheckComplete failed to parse update manifest: [Exception... "Update manifest is missing a required addons property."  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/addons/AddonUpdateChecker.jsm :: getRequiredProperty :: line 473"  data: no] Stack trace: getRequiredProperty()@resource://gre/modules/addons/AddonUpdateChecker.jsm:473 < parseJSONManifest()@resource://gre/modules/addons/AddonUpdateChecker.jsm:483 < UpdateParser.prototype.onLoad/parser()@resource://gre/modules/addons/AddonUpdateChecker.jsm:655 < UpdateParser.prototype.onLoad()@resource://gre/modules/addons/AddonUpdateChecker.jsm:675 < UpdateParser/<()@resource://gre/modules/addons/AddonUpdateChecker.jsm:593
+1536759457298	addons.update-checker	WARN	onUpdateCheckComplete failed to parse update manifest: [Exception... "Update manifest is missing a required addons property."  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/addons/AddonUpdateChecker.jsm :: getRequiredProperty :: line 473"  data: no] Stack trace: getRequiredProperty()@resource://gre/modules/addons/AddonUpdateChecker.jsm:473 < parseJSONManifest()@resource://gre/modules/addons/AddonUpdateChecker.jsm:483 < UpdateParser.prototype.onLoad/parser()@resource://gre/modules/addons/AddonUpdateChecker.jsm:655 < UpdateParser.prototype.onLoad()@resource://gre/modules/addons/AddonUpdateChecker.jsm:675 < UpdateParser/<()@resource://gre/modules/addons/AddonUpdateChecker.jsm:593
+1536759457320	addons.update-checker	WARN	onUpdateCheckComplete failed to parse update manifest: [Exception... "Update manifest is missing a required addons property."  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/addons/AddonUpdateChecker.jsm :: getRequiredProperty :: line 473"  data: no] Stack trace: getRequiredProperty()@resource://gre/modules/addons/AddonUpdateChecker.jsm:473 < parseJSONManifest()@resource://gre/modules/addons/AddonUpdateChecker.jsm:483 < UpdateParser.prototype.onLoad/parser()@resource://gre/modules/addons/AddonUpdateChecker.jsm:655 < UpdateParser.prototype.onLoad()@resource://gre/modules/addons/AddonUpdateChecker.jsm:675 < UpdateParser/<()@resource://gre/modules/addons/AddonUpdateChecker.jsm:593
+1536759457340	addons.update-checker	WARN	onUpdateCheckComplete failed to parse update manifest: [Exception... "Update manifest is missing a required addons property."  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/addons/AddonUpdateChecker.jsm :: getRequiredProperty :: line 473"  data: no] Stack trace: getRequiredProperty()@resource://gre/modules/addons/AddonUpdateChecker.jsm:473 < parseJSONManifest()@resource://gre/modules/addons/AddonUpdateChecker.jsm:483 < UpdateParser.prototype.onLoad/parser()@resource://gre/modules/addons/AddonUpdateChecker.jsm:655 < UpdateParser.prototype.onLoad()@resource://gre/modules/addons/AddonUpdateChecker.jsm:675 < UpdateParser/<()@resource://gre/modules/addons/AddonUpdateChecker.jsm:593
+
+(Thunar:1439): Gdk-WARNING **: 14:05:15.442: gdk_window_set_icon_list: icons too large
+
+(Thunar:1439): Gdk-WARNING **: 14:05:24.189: gdk_window_set_icon_list: icons too large
+
+(Thunar:1439): Gdk-WARNING **: 14:05:49.450: gdk_window_set_icon_list: icons too large
+
+(Thunar:1439): Gdk-WARNING **: 14:06:22.178: gdk_window_set_icon_list: icons too large
+
+(Thunar:1439): Gdk-WARNING **: 14:06:32.669: gdk_window_set_icon_list: icons too large
+
+(Thunar:1439): Gdk-WARNING **: 14:06:39.043: gdk_window_set_icon_list: icons too large
+
+(Thunar:1439): Gdk-WARNING **: 14:06:42.631: gdk_window_set_icon_list: icons too large
+
+(Thunar:1439): Gdk-WARNING **: 14:06:44.133: gdk_window_set_icon_list: icons too large
+
+(Thunar:1439): Gdk-WARNING **: 14:06:48.621: gdk_window_set_icon_list: icons too large
+
+(Thunar:1439): Gdk-WARNING **: 14:06:50.074: gdk_window_set_icon_list: icons too large
+
+(Thunar:1439): Gdk-WARNING **: 14:07:06.980: gdk_window_set_icon_list: icons too large
+
+(Thunar:1439): Gdk-WARNING **: 14:07:09.722: gdk_window_set_icon_list: icons too large
+
+(Thunar:1439): Gdk-WARNING **: 14:08:53.447: gdk_window_set_icon_list: icons too large
+
+(Thunar:1439): Gdk-WARNING **: 14:10:26.190: gdk_window_set_icon_list: icons too large
+
+(Thunar:1439): Gdk-WARNING **: 14:10:38.469: gdk_window_set_icon_list: icons too large
+
+(Thunar:1439): Gdk-WARNING **: 14:10:50.551: gdk_window_set_icon_list: icons too large
+
+(Thunar:1439): Gdk-WARNING **: 14:11:02.535: gdk_window_set_icon_list: icons too large
+
+(Thunar:1439): Gdk-WARNING **: 14:11:04.204: gdk_window_set_icon_list: icons too large
+
+(Thunar:1439): Gdk-WARNING **: 14:11:07.262: gdk_window_set_icon_list: icons too large
+
+(Thunar:1439): Gdk-WARNING **: 14:11:09.751: gdk_window_set_icon_list: icons too large
+
+(Thunar:1439): Gdk-WARNING **: 14:12:56.064: gdk_window_set_icon_list: icons too large
+
+(Thunar:1439): Gdk-WARNING **: 14:13:03.321: gdk_window_set_icon_list: icons too large
+xfce4-session-Message: 14:15:30.967: Got disconnected from D-Bus.  Unless this happened during session shutdown, this is probably a bad thing.
+xfdesktop: Fatal IO error 4 (Interrupted system call) on X server :0.0.
